@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/muftinurulazmi?label=muftinurulazmi&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/muftinurulazmi26?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Pemkab Tegal](http://www.tegalkab.go.id//)
+- 🔭 I’m currently working on [Diskominfo - Kab. Tegal](http://www.tegalkab.go.id//)
 
 - 🌱 I’m currently learning **Flutter, NodeJS and Kotlin**
 
