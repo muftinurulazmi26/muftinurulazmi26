@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mufti nurul azmi, usually called azmi</h1>
+<h3 align="center">A self-taught android programmer and interested in UI/UX😜</h3>
 
-<!--
-**muftinurulazmi26/muftinurulazmi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/muftinurulazmi?label=muftinurulazmi&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/muftinurulazmi26?logo=GitHub&style=for-the-badge)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Pemkab Tegal](http://www.tegalkab.go.id//)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Flutter, NodeJS and Kotlin**
+
+- ⚡ Fun fact **I love to play Football and coding while drinking coffee.**
+
+- 💬 Ask me about **android programming.**
+
+### Connect with me:
+
+<a href="https://twitter.com/muftinurulazmi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muftinurulazmi" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/mufti-nurul-azmi-698496142/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mufti-nurul-azmi" height="22" width="22" /></a>
+
+<br />
+
+### Languages and Tools:
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="sketch" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="22" height="22"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muftinurulazmi26&layout=compact&hide=html" alt="muftinurulazmi26" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muftinurulazmi26&show_icons=true" alt="muftinurulazmi26" /></p>
+
