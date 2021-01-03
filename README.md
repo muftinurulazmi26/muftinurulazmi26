@@ -19,9 +19,8 @@
 
 ### Please contact me for freelance
 
-<a href="https://www.instagram.com/mufti_nuru" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muftinurulazmi" height="22" width="22" /></a>
-
-<br />
+<a href="https://www.instagram.com/mufti_nurul_azmi/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muftinurulazmi" height="22" width="22" /></a>
+<a href="https://api.whatsapp.com/send?phone=6287838628432&text=I%27m%20interested%20in%20hire%20you%20as%20freelance%20android%20programmer" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="muftinurulazmi" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
