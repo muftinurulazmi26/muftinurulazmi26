@@ -17,7 +17,7 @@
 <a href="https://twitter.com/muftinurulazmi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muftinurulazmi" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/mufti-nurul-azmi-698496142/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mufti-nurul-azmi" height="22" width="22" /></a>
 
-### Contact me for freelance android
+### Please contact me for freelance
 
 <a href="https://www.instagram.com/mufti_nuru" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muftinurulazmi" height="22" width="22" /></a>
 
