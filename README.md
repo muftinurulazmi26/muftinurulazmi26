@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mufti nurul azmi, usually called azmi</h1>
-<h3 align="center">A self-taught android programmer and interested in UI/UX😜</h3>
+<h1 align="center">Hi 👋, I'm Mufti nurul azmi, usually called mufti or azmi not nurul🤪</h1>
+<h3 align="center">A self-taught android programmer and interested in UI/UX🥰</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/muftinurulazmi?label=muftinurulazmi&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/muftinurulazmi26?logo=GitHub&style=for-the-badge)
@@ -16,6 +16,10 @@
 
 <a href="https://twitter.com/muftinurulazmi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muftinurulazmi" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/mufti-nurul-azmi-698496142/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mufti-nurul-azmi" height="22" width="22" /></a>
+
+### Contact me for freelance android
+
+<a href="https://www.instagram.com/mufti_nuru" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muftinurulazmi" height="22" width="22" /></a>
 
 <br />
 
