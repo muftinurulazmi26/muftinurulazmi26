@@ -1,42 +1,70 @@
-<h1 align="center">Hi 👋, I'm Mufti nurul azmi, usually called mufti or azmi not nurul🤪</h1>
-<h3 align="center">A self-taught android programmer and interested in UI/UX🥰</h3>
+<h1 align="center">Hi 👋, I'm Mufti Nurul Azmi</h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/muftinurulazmi?label=muftinurulazmi&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/muftinurulazmi26?logo=GitHub&style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Android+Developer;Flutter+Enthusiast;UI%2FUX+Lover;Coffee+and+Code+Addict" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on [Diskominfo - Kab. Tegal](https://kominfo.tegalkab.go.id/)
+<p align="center">
+  <a href="https://twitter.com/muftinurulazmi">
+    <img src="https://img.shields.io/twitter/follow/muftinurulazmi?label=Follow&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/muftinurulazmi26">
+    <img src="https://img.shields.io/github/followers/muftinurulazmi26?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Flutter, NodeJS and Kotlin**
+---
 
-- ⚡ Fun fact **I love to play Football and coding while drinking coffee.**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **android programming.**
+- 🔭 Currently working at [Diskominfo - Kab. Tegal](https://kominfo.tegalkab.go.id/)
+- 🌱 Learning **Flutter**, **Node.js**, and **Kotlin**
+- 💬 Ask me about **Android development** or **UI/UX design**
+- ☕ Coffee lover who codes at midnight
+- ⚽ Football is my go-to refreshment
 
-### Connect with me:
+---
 
-<a href="https://twitter.com/muftinurulazmi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muftinurulazmi" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/mufti-nurul-azmi-698496142/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mufti-nurul-azmi" height="22" width="22" /></a>
+### 📫 Connect with Me
 
-### Please contact me for freelance
+<p>
+  <a href="https://twitter.com/muftinurulazmi">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mufti-nurul-azmi-698496142/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mufti_nurul_azmi/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=6287838628432&text=I'm%20interested%20in%20hiring%20you%20as%20a%20freelance%20Android%20developer">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.instagram.com/mufti_nurul_azmi/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muftinurulazmi" height="22" width="22" /></a>
-<a href="https://api.whatsapp.com/send?phone=6287838628432&text=I%27m%20interested%20in%20hire%20you%20as%20freelance%20android%20programmer" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="muftinurulazmi" height="22" width="22" /></a>
+---
 
-### Languages and Tools:
+### 🛠️ Tools & Technologies
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="sketch" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="22" height="22"/></p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" alt="Flutter" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" alt="Dart" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" alt="Kotlin" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="30" alt="Java" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" alt="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="30" alt="SQLite" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="30" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" alt="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="30" alt="Android" />
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="30" alt="Swift" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muftinurulazmi26&layout=compact&hide=html" alt="muftinurulazmi26" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muftinurulazmi26&show_icons=true" alt="muftinurulazmi26" /></p>
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muftinurulazmi26&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muftinurulazmi26&layout=compact&hide=html&theme=default" alt="Top Languages" />
+</div>
